@@ -5,6 +5,7 @@
 ![Badge "Azure"](https://img.shields.io/badge/azure-0474c4)
 
 
+
 # Índice
 
 * [Descrição do Projeto](#descrição-do-projeto)
@@ -16,16 +17,24 @@
 * [Contato](#contato)
 * [Agradecimento](#agradecimento)
 
+  
+
 # Descrição do projeto
 Este projeto é o resultado do Bootcamp da DIO sobre Azure Cloud Native. A sua ideia central é a fixação de conceitos-chave para o entendimento da plataforma Azure e a aplicação prática destes conceitos através de desafios, focados principalmente no Serviço de Kubernetes do Azure (AKS), Azure Machine Learning e a exploração de temas como segurança e computação serverless.
+
+
 
 # 📌 Status do projeto
 
 🛠️ Projeto em andamento 🛠️
 
+
+
 # 🖥️ Funcionalidades e demosntração da aplicação
 
 ⏳Em desenvolvimento ⏳
+
+
 
 # 📂 Acesso ao projeto
 
@@ -38,19 +47,27 @@ Este projeto é o resultado do Bootcamp da DIO sobre Azure Cloud Native. A sua i
  3. Execute o servidor de desenvolvimento local: 
 ```Em andamento```
 
+
+
 # 🤖 Tecnologias utilizadas
 
 ``` Azure ```
 
+
+
 # 👩‍💻 Autora
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/97490698?v=4" width=115><br><sub>Jessica Oliveira</sub>](https://github.com/jessicaalines) | 
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/97490698?v=4" width=115><br><sub>Jessica Oliveira</sub>](https://github.com/jessicaalines) 
+
+
 
 # 📫 Contato
 
 Via LinkedIn:
 
 * Jessica Oliveira: https://www.linkedin.com/in/jessica-aline-soares-oliveira/
+
+  
 
 # 💜 Agradecimento
 
