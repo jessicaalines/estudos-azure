@@ -1,6 +1,8 @@
 # Bootcamp DIO Azure Cloud Native
 
-![azurecloudnative](https://assets.dio.me/NH2z-7fj2X4Emz6MdMBMay-QjoZsk6oik-AtdxOPMIc/f:webp/q:80/w:480/L3RyYWNrcy9kNzNlZTNlMy00MWExLTRiOTAtYmZkZi1mOGZhYjQzMmE1MDAucG5n)
+<p align="center">
+  <img src="https://assets.dio.me/NH2z-7fj2X4Emz6MdMBMay-QjoZsk6oik-AtdxOPMIc/f:webp/q:80/w:480/L3RyYWNrcy9kNzNlZTNlMy00MWExLTRiOTAtYmZkZi1mOGZhYjQzMmE1MDAucG5n" alt="azurecloudnative">
+</p>
 
 ![Badge "Azure"](https://img.shields.io/badge/azure-0474c4)
 
@@ -30,7 +32,7 @@ Este projeto é o resultado do Bootcamp da DIO sobre Azure Cloud Native. A sua i
 
 
 
-# 🖥️ Funcionalidades e demosntração da aplicação
+# 🖥️ Funcionalidades e demonstração da aplicação
 
 ⏳Em desenvolvimento ⏳
 
