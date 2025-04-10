@@ -6,19 +6,6 @@
 
 ![Badge "Azure"](https://img.shields.io/badge/azure-0474c4)
 
-
-
-# Índice
-
-* [Descrição do Projeto](#descrição-do-projeto)  
-* [Status do Projeto](#status-do-projeto)       
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação) 
-* [Acesso ao Projeto](#acesso-ao-projeto)         
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Autora](#autora)
-* [Contato](#contato)
-* [Agradecimento](#agradecimento)
-
   
 
 # Descrição do projeto
